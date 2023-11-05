@@ -1,0 +1,3 @@
+/home/rigazubaku/CLionProjects/Ushtrime2/cmake-build-debug/CMakeFiles/Ushtrime2.dir
+/home/rigazubaku/CLionProjects/Ushtrime2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rigazubaku/CLionProjects/Ushtrime2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
